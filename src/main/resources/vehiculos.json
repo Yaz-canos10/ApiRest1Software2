@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+       " marca": "Toyota",
+        "modelo": "Supra MK5",
+        "año": 2019,
+        "color": "Renaissance Red 2.0"
+   
+   },
+   {
+       "id":2,
+      " marca": "Chevrolet",
+       "modelo": "ZL1",
+       "año": 2024,
+       "color": "Negro"
+  
+   },
+   {
+       "id":3,
+       "marca": "Mazda",
+       "modelo": "Rx 7",
+       "año": 1997 ,
+       "color": "Naranja y Negro"
+
+   },
+   {
+       "id":4,
+       "marca": "Ford",
+       "modelo": "Mustang GDT",
+       "año": 2024,
+       "color": " Negro"
+
+   },
+   {
+       "id":5,
+      " marca": "Mitsubishi ",
+       "modelo": "Eclipse",
+       "año": 1995,
+       "color": "verde"
+    }
+
+]
